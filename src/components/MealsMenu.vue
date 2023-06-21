@@ -12,7 +12,7 @@
           <ul ref="coffeeList" v-if="coffeeList" class="row list-unstyled">
             <li v-for="cf, index in drinks.coffee" :key="cf.id" data-scroll data-scroll-speed="3" :data-scroll-delay="(drinks.coffee.length - index)*0.25" class="col col-xl-3 d-flex flex-column py-3">
               <div id="DrinkItem" class="p-3 rounded-3 position-relative">
-                <img :src='"src/assets/"+cf.images' alt="" class="img-fluid m-auto rounded-top-3" style="object-fit: cover;
+                <img :src='"https://raw.githubusercontent.com/anang-prasetyo/almamater-coffee-and-eatery/main/src/assets/"+cf.images' alt="" class="img-fluid m-auto rounded-top-3" style="object-fit: cover;
                 max-height: 15rem; min-height: 15rem;
                 width: 100%;">
                 <div v-if="selectCoffee[index]" class="position-absolute d-flex justify-content-center align-items-center rounded-circle bg-warning fs-1" style="top: 1.5rem; right: 1.5rem; height: 3rem; width: 3rem;"><i class="bi-check"></i></div>

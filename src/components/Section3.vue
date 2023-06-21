@@ -97,7 +97,7 @@ export default {
     transform: rotate(-7deg) translate(-32vw, 7vh);
     ul.coffee {
       background-color: $abu-100;
-      background-image: url('src/assets/binding-light.png');
+      background-image: url('https://raw.githubusercontent.com/anang-prasetyo/almamater-coffee-and-eatery/main/src/assets/binding-light.png');
     }
   }
   &-r{
@@ -105,7 +105,7 @@ export default {
     transform: rotate(7deg) translate(27vw, 7vh);
     ul.food {
       background-color: $abu-200;
-      background-image: url('src/assets/binding-light.png');
+      background-image: url('https://raw.githubusercontent.com/anang-prasetyo/almamater-coffee-and-eatery/main/src/assets/binding-light.png');
     }
   }
 }

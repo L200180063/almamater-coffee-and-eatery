@@ -21,7 +21,7 @@
         <div class="o-layout_item u-3/5@from-medium">
           <div class="c-fixed_wrapper is-inview" data-scroll="" data-scroll-call="dynamicBackground" data-scroll-repeat="" style="background-color: rgb(201, 211, 212);">
             <div class="c-fixed_target" id="fixed-target"></div>
-            <div class="c-fixed is-inview" data-scroll="" data-scroll-sticky="" data-scroll-target="#fixed-target" style="background-image: url('src/assets/ezg25fom.png');"></div>
+            <div class="c-fixed is-inview" data-scroll="" data-scroll-sticky="" data-scroll-target="#fixed-target" style="background-image: url('https://raw.githubusercontent.com/anang-prasetyo/almamater-coffee-and-eatery/main/src/assets/ezg25fom.png');"></div>
             <!-- <div class="c-fixed is-inview" data-scroll="" data-scroll-sticky="" data-scroll-target="#fixed-target" style="background-image: url('https://locomotivemtl.github.io/locomotive-scroll/dist/images/locomotive04.jpg');"></div> -->
           </div>
         </div>
